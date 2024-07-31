@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jnbntc
-- 👀 I’m interested in Python and databases.
+- 👀 I’m interested in Python and Data Science.
 
 <!---
 jnbntc/jnbntc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
