@@ -2,17 +2,18 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Data+Science;Machine+Learning;Web3+%26+Blockchain;Ethereum+%7C+Solidity+%7C+Smart+Contracts;Always+learning+new+things+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Sr.+IT+Systems+Administrator;Immutable+Infrastructure+(OCI);Local+AI+Orchestration+%26+LLMs;IoT,+Telemetry+%26+Hardware+Hacking;Solidity+%26+Smart+Contracts" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🌱 About Me
-- 🔭 Currently learning and building in **Data Science & Machine Learning**  
-- 💡 Passionate about **Python, AI, and Cybersecurity**  
-- 🚀 Exploring **Blockchain, Ethereum & Smart Contracts**  
-- 🎯 Goal: Apply ML/AI to solve real-world challenges  
+### 🏗️ Architecture & Focus
+- 🐧 **Infrastructure & DevOps:** Designing immutable OS architectures (Fedora Atomic / OCI-Native), managing Proxmox clusters, and orchestrating containerized environments (Podman/Docker, Quadlets).
+- 🧠 **Local AI & Automation:** Developing OSINT pipelines and orchestration agents using **LangGraph**, **Ollama**, and local LLMs (Gemma, Qwen).
+- 🔌 **IoT & Hardware:** Designing custom telemetry networks using **ESP32, C++, MQTT**, and e-Paper displays for home lab monitoring.
+- 🌐 **Web3 & BI:** Expanding capabilities in Business Intelligence and Ethereum/Solidity smart contract development.
+- 🍺 **Off-grid:** When I'm not restructuring server parks, I'm probably baking artisan sourdough bread (masa madre), brewing craft beer, or playing Argentine folklore on the guitar.
 
 ---
 
@@ -28,10 +29,11 @@
 
 ---
 
-### ⚙️ Languages & Tools
+### ⚙️ Core Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,docker,git,linux,mysql,postgresql,mongodb,aws" /><br/>
-  <img src="https://skillicons.dev/icons?i=bash,cpp,oracle,sqlite,matlab,seaborn,pandas,solidity" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,aws" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,solidity" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,pytorch,tensorflow" />
 </p>
 
 ---
