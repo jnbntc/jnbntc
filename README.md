@@ -9,12 +9,11 @@
 ---
 
 ### 🏗️ Architecture & Focus
-- 🐧 **Infrastructure & DevOps:** Designing immutable OS architectures (Fedora Atomic / OCI-Native), managing Proxmox clusters, and orchestrating containerized environments (Podman/Docker, Quadlets).
-- 🧠 **Local AI & Automation:** Developing OSINT pipelines and orchestration agents using **LangGraph**, **Ollama**, and local LLMs (Gemma, Qwen).
-- 🔌 **IoT & Hardware:** Designing custom telemetry networks using **ESP32, C++, MQTT**, and e-Paper displays for home lab monitoring.
-- 🌐 **Web3 & BI:** Expanding capabilities in Business Intelligence and Ethereum/Solidity smart contract development.
-- 🍺 **Off-grid:** When I'm not restructuring server parks, I'm probably baking artisan sourdough bread (masa madre), brewing craft beer, or playing Argentine folklore on the guitar.
-
+- <big>🐧 **Infrastructure & DevOps:** Designing immutable OS architectures (Fedora Atomic / OCI-Native), managing Proxmox clusters, and orchestrating containerized environments (Podman/Docker, Quadlets).</big>
+- <big>🧠 **Local AI & Automation:** Developing OSINT pipelines and orchestration agents using **LangGraph**, **Ollama**, and local LLMs (Gemma, Qwen).</big>
+- <big>🔌 **IoT & Hardware:** Designing custom telemetry networks using **ESP32, C++, MQTT**, and e-Paper displays for home lab monitoring.</big>
+- <big>🌐 **Web3 & BI:** Expanding capabilities in Business Intelligence and Ethereum/Solidity smart contract development.</big>
+- <big>🍺 **Off-grid:** When I'm not restructuring server parks, I'm probably baking artisan sourdough bread (masa madre), brewing craft beer, or playing Argentine folklore on the guitar.</big>
 ---
 
 ### 🌐 Connect with me
