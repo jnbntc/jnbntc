@@ -19,13 +19,7 @@ and evolved into code, automation or a documented lab.
 
 > **Real infrastructure problems, turned into reproducible systems and tools.**
 
-```mermaid
-flowchart LR
-    A[Real problem] --> B[Understand]
-    B --> C[Automate]
-    C --> D[Verify]
-    D --> E[Document]
-```
+**Workflow:** `Real problem → Understand → Automate → Verify → Document`
 
 ---
 
