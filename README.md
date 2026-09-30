@@ -3,17 +3,37 @@
 **Infrastructure & Network Architect**  
 Linux · Network Automation · Cybersecurity · Python · IaC · Edge Computing
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Infrastructure-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux Infrastructure" />
+  <img src="https://img.shields.io/badge/Network-Automation-333333?style=flat-square" alt="Network Automation" />
+  <img src="https://img.shields.io/badge/Infrastructure-as_Code-333333?style=flat-square" alt="Infrastructure as Code" />
+  <img src="https://img.shields.io/badge/Supply_Chain-Security-333333?style=flat-square" alt="Supply Chain Security" />
+  <img src="https://img.shields.io/badge/Edge-Computing-333333?style=flat-square" alt="Edge Computing" />
+</p>
+
 I design, operate and automate infrastructure, with a focus on
 **reproducible systems, networking, observability and security**.
 
 Most of the projects here started with a real infrastructure problem
 and evolved into code, automation or a documented lab.
 
+> **Real infrastructure problems, turned into reproducible systems and tools.**
+
+```mermaid
+flowchart LR
+    A[Real problem] --> B[Understand]
+    B --> C[Automate]
+    C --> D[Verify]
+    D --> E[Document]
+```
+
 ---
 
 ## Selected Projects
 
 ### 🐧 [fedora_atomic](https://github.com/jnbntc/fedora_atomic)
+
+`Linux` · `OCI` · `Supply Chain Security`
 
 OCI-native Fedora Atomic workstation used as a lab for immutable
 infrastructure, CI/CD and software supply-chain security.
@@ -35,6 +55,8 @@ important stage produce verifiable evidence.
 ---
 
 ### 🌐 [re-aruba](https://github.com/jnbntc/re-aruba)
+
+`Python` · `Networking` · `Reverse Engineering`
 
 Experimental Python management client for **Aruba Instant On 1830**
 switches, built by reverse-engineering undocumented HTTP/XML management
@@ -59,6 +81,8 @@ This is an experimental client, not an official Aruba/HPE API.
 
 ### 📦 [distrobox-stack](https://github.com/jnbntc/distrobox-stack)
 
+`Podman` · `Distrobox` · `OCI Workspaces`
+
 Declarative technical workspaces for Fedora Atomic using
 **Podman, Distrobox and GHCR**.
 
@@ -82,6 +106,8 @@ The host stays small; technical toolchains live in reproducible containers.
 
 ### 🔎 [go-netlab](https://github.com/jnbntc/go-netlab)
 
+`Go` · `Networking` · `Troubleshooting`
+
 Lightweight network diagnostics and troubleshooting lab written in Go.
 
 It includes tools for:
@@ -100,6 +126,8 @@ a single static binary and a server-side rendered web interface.
 ---
 
 ### 📊 [traffic-accident-analysis](https://github.com/jnbntc/traffic-accident-analysis)
+
+`Python` · `Data Science` · `Jupyter`
 
 Exploratory data analysis and machine-learning work using traffic
 accident datasets.
@@ -127,24 +155,19 @@ infrastructure, security and software:
 
 ## Toolbox
 
-### Infrastructure
-
+**Infrastructure**  
 `Linux` · `Fedora Atomic` · `Windows Server` · `Proxmox` · `Podman` · `Distrobox`
 
-### Networking & Security
-
+**Networking & Security**  
 `Aruba` · `Cisco` · `FortiGate` · `MikroTik` · `SNMP` · `LLDP` · `Nmap` · `Tailscale`
 
-### Automation & Development
-
+**Automation & Development**  
 `Python` · `Bash` · `PowerShell` · `Go` · `Git` · `GitHub Actions`
 
-### Infrastructure & Supply Chain
-
+**Infrastructure & Supply Chain**  
 `OCI` · `rpm-ostree` · `Cosign` · `Sigstore` · `SLSA` · `SBOM`
 
-### Edge & IoT
-
+**Edge & IoT**  
 `ESP32` · `C++` · `MQTT` · `Raspberry Pi`
 
 ---
