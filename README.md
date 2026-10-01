@@ -207,7 +207,6 @@ automation.
 
 ---
 
-<sub>
 When I'm not breaking, rebuilding or automating infrastructure,
-I'm probably brewing beer, baking sourdough or playing Argentine folklore on guitar.
-</sub>
+I'm probably brewing beer, baking sourdough or playing Argentine folklore on guitar 🇦🇷.
+
