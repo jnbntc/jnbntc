@@ -98,6 +98,26 @@ The host stays small; technical toolchains live in reproducible containers.
 
 ---
 
+### 🍺 [fermentador-inteligente](https://github.com/jnbntc/fermentador-inteligente)
+
+`ESP32` · `MQTT` · `Edge Computing`
+
+Temperature control and monitoring for beer fermentation, combining
+**local ESP32 control** with MQTT telemetry and server-side observability.
+
+The project includes:
+
+- DS18B20 temperature sensors and local hysteresis control
+- compressor restart protection
+- MQTT telemetry and setpoint updates
+- Node-RED fermentation profiles
+- InfluxDB measurements and Grafana dashboards
+
+The focus is deterministic local control before adaptive features or
+machine learning. Physical validation of the current changes is still pending.
+
+---
+
 ### 🔎 [go-netlab](https://github.com/jnbntc/go-netlab)
 
 `Go` · `Networking` · `Troubleshooting`
@@ -116,18 +136,6 @@ It includes tools for:
 
 The backend uses Go concurrency while keeping deployment simple:
 a single static binary and a server-side rendered web interface.
-
----
-
-### 📊 [traffic-accident-analysis](https://github.com/jnbntc/traffic-accident-analysis)
-
-`Python` · `Data Science` · `Jupyter`
-
-Exploratory data analysis and machine-learning work using traffic
-accident datasets.
-
-This project belongs to my Data Science learning path and includes work
-with Python, Pandas, Jupyter and Scikit-learn.
 
 ---
 
